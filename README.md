@@ -32,3 +32,15 @@ Pandas, NumPy, Matplotlib, Seaborn for data manipulation and visualization.
 
 ### Machine Learning: 
 Scikit-learn for implementing machine learning models.
+
+## Project Structure
+### data/: 
+Contains the dataset used for the project.
+### notebooks/: 
+Jupyter Notebooks for data exploration, preprocessing, and model implementation.
+### src/: 
+Python scripts for modularized code (e.g., functions for data preprocessing, feature engineering).
+### results/: 
+Stores model outputs, evaluation results, and visualizations.
+## Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. We welcome your suggestions and improvements!
