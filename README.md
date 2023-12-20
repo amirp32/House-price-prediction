@@ -7,40 +7,41 @@
 ## Project Highlights
 
 ### Data Exploration: 
-Explore and understand the dataset, identifying key features and patterns.
+  Explore and understand the dataset, identifying key features and patterns.
 
 ### Data Preprocessing: 
-Clean and preprocess the data to ensure it's suitable for machine learning algorithms.
+  Clean and preprocess the data to ensure it's suitable for machine learning algorithms.
 
 ### Feature Engineering: 
-Create new features or transform existing ones to enhance model performance.
+  Create new features or transform existing ones to enhance model performance.
 
 ### Model Selection: 
-Implement various machine learning models, including Linear Regression, Random Forest, and Gradient Boosting.
+  Implement various machine learning models, including Linear Regression, Random Forest, and Gradient Boosting.
 
 
 ### Evaluation Metrics: 
-Assess model performance using appropriate evaluation metrics.
+  Assess model performance using appropriate evaluation metrics.
 
 ## Tools and Technologies
 
 ### Python: 
-Used for data analysis, visualization, and implementation of machine learning models.
+  Used for data analysis, visualization, and implementation of machine learning models.
 
 ### Libraries: 
-Pandas, NumPy, Matplotlib, Seaborn for data manipulation and visualization.
+  Pandas, NumPy, Matplotlib, Seaborn for data manipulation and visualization.
 
 ### Machine Learning: 
-Scikit-learn for implementing machine learning models.
+  Scikit-learn for implementing machine learning models.
 
 ## Project Structure
 ### data/: 
-Contains the dataset used for the project.
+  Contains the dataset used for the project.
 ### notebooks/: 
-Jupyter Notebooks for data exploration, preprocessing, and model implementation.
+  Jupyter Notebooks for data exploration, preprocessing, and model implementation.
 ### src/: 
-Python scripts for modularized code (e.g., functions for data preprocessing, feature engineering).
+  Python scripts for modularized code (e.g., functions for data preprocessing, feature engineering).
 ### results/: 
-Stores model outputs, evaluation results, and visualizations.
+  Stores model outputs, evaluation results, and visualizations.
 ## Contributing
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. We welcome your suggestions and improvements!
+  If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. We welcome your suggestions 
+  and improvements!
